@@ -44,4 +44,4 @@ D'après les coefficients de la régression logistique :
 Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, Google Colab
 
 ## Auteur
-[Ton nom]
+[Hiba Ben Ali]
